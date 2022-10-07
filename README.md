@@ -123,12 +123,8 @@ Here are some ideas to get you started:
 ---
 
 ## Github Stats
+[![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomzalo)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fjbatresv&show_icons=true&locale=en" alt="fjbatresv" /></p>
-
-<p>
-    <figure align="center" height="500"><embed src="https://wakatime.com/share/@fjbatresv/255696d9-db2b-4c4e-a9a3-4ecf4e5385da.svg" ></embed></figure>
-</p>
 
 [github]: https://github.com/gomzalo
 [youtube]: https://www.youtube.com/channel/UCT1PdXwTj7F-veHG5coHF_Q
