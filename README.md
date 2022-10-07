@@ -123,7 +123,15 @@ Here are some ideas to get you started:
 ---
 
 ## Github Stats
-[![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomzalo)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/gomzalo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gomzalo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/gomzalo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gomzalo&repo=convoychat" />
+</a>
+
+[![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomzalo)](https://github.com/gomzalo/github-readme-stats)
 
 
 [github]: https://github.com/gomzalo
