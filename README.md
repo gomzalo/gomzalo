@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 **More about me:**
 
-- 🌱 I’m currently learning TensorFlow.
-- 🤓 I'm learning UiPath and Unity.
+- 🌱 Learning and improving .NET.
+- 🤓 Trying to learn more about CSS.
 - 🎮 On my free time I love playing videogames or watch series.
 
 
