@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **More about me:**
 
-- 🌱 Learning and improving .NET.
+- 🌱 Learning and improving my .NET and JS knowledge.
 - 🤓 Trying to learn more about CSS.
 - 🎮 On my free time I love playing videogames or watch series.
 
